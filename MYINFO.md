@@ -3,19 +3,23 @@
 
 나의 혈액형 RH+ B형
 
-
-
 Git 기초
 
 목차
 
 ---
+
 Git이란?---
-***
+
+---
+
 Git 기본 명령어
-***
+
+---
+
 브랜치와 병합
-~~~GitHub 사용~~~
+
+```GitHub 사용~~~
 추가 리소스
 ~~~취소~~~
 
@@ -42,7 +46,7 @@ git init
 ![깃허브 로고]http://imgge.....)
 새로운 Git 저장소를 초기화합니다.
 
-  
+
 2.   파일 추가 및 커밋
 
 git add <파일명>
@@ -68,3 +72,4 @@ Git 로고
 
 Git에 대해 더 알고 싶다면, Git 공식 문서(https://git-scm.com/doc)를 확인하세요.
 GitHub 사용법에 대한 자세한 정보는 GitHub Docs(https://docs.github.com/en)에서 찾아볼 수 있습니다.
+```
