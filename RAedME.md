@@ -59,7 +59,7 @@ Git>Hub 계정 생성
 
 git remote add origin <GitHub 저장소 URL>
 git push origin main
-
+./Git-Logo-2Color.png
 Git 로고
 (URL: https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
 
@@ -68,3 +68,6 @@ Git 로고
 Git에 대해 더 알고 싶다면, Git 공식 문서(https://git-scm.com/doc)를 확인하세요.
 GitHub 사용법에 대한 자세한 정보는 GitHub Docs(https://docs.github.com/en)에서 찾아볼 수 있습니다.
 ```
+
+![캣](https://cdn.aitimes.kr/news/photo/202303/27617_41603_044.jpg)
+고양이 귀여
