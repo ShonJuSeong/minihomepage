@@ -32,9 +32,9 @@ Git은 분산형 버전 관리 시스템입니다. 여러 명이 동시에 작�
 
 Git 기본 명령어
 
-1. Git 저장소 초기화
+## 1. Git 저장소 초기화
 
-git init
+# git init
 
 깃허브[깃허브](http://githun.com)
 
